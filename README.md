@@ -1,2 +1,2 @@
-# pic
-For GuDong
+# Pic
+A photo repository
